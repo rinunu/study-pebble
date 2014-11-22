@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rintaro.t@gmail.com",
+    "longName": "test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "test",
+    "uuid": "1d12058d-8931-4590-8224-28e4f22a59b4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
