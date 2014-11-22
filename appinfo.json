@@ -7,7 +7,13 @@
     "longName": "test",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/tut_2_frame.png",
+                "name": "FRAME",
+                "type": "png"
+            }
+        ]
     },
     "shortName": "test",
     "uuid": "1d12058d-8931-4590-8224-28e4f22a59b4",
